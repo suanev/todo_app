@@ -1,5 +1,7 @@
 # Todo APP - React + Firebase
 
+Aplicação simples com o objetivo de entender como interegir com o firebase utilizando React no frontend.
+
 ### Tecnologias utilizadas
 
 * [React](https://pt-br.reactjs.org/)
